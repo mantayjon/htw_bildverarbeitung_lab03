@@ -27,7 +27,7 @@ public class Main extends Application {
 		BorderPane root = (BorderPane)loadFXML("MorphologicFilterAppView.fxml");
 		Scene scene = new Scene(root);
 		primaryStage.setScene(scene);
-		primaryStage.setTitle("Morphologic Filters - SS2023 - <Mantay>"); // TODO: add your name(s)
+		primaryStage.setTitle("Morphologic Filters - SS2023 - <Mantay>"); 
 		primaryStage.show();
 	}
  		   	  	  			
